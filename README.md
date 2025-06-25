@@ -1,6 +1,6 @@
 
 <img src="logo.png" width="1080" height="540">
-<h1>🔐 Ceasar Cipher Toolkit</h1>
+<h1>Ceasar Cipher Toolkit</h1>
 
 <p><strong>Ceasar Cipher Toolkit</strong> is a free, open-source CLI framework for encoding and decoding files using the classic Ceasar cipher. It also includes powerful tools to encrypt PDFs and folders — without compressing or modifying original file contents.</p>
 
@@ -8,7 +8,7 @@
 
 <hr/>
 
-<h2>🚀 Features</h2>
+<h2> Features</h2>
 
 <ul>
   <li>Interactive menu-driven interface</li>
@@ -19,7 +19,7 @@
   <li>Colorized success/error messages with <code>colorama</code></li>
 </ul>
 
-<h2>🧪 Example Use</h2>
+<h2> Example Use</h2>
 
 <pre><code>python main.py</code></pre>
 
@@ -35,7 +35,7 @@
 7. Exit
 </code></pre>
 
-<h2>🧠 Ceasar Cipher Usage</h2>
+<h2> Ceasar Cipher Usage</h2>
 
 <ul>
   <li>Encodes any text file with a shift you provide</li>
@@ -49,7 +49,7 @@
 
 Then decode → output: <code>document_dec.txt</code>
 
-<h2>📄 PDF Protection</h2>
+<h2>PDF Protection</h2>
 
 <ul>
   <li>Encrypts PDFs with a password using <code>PyPDF2</code></li>
@@ -62,7 +62,7 @@ Then decode → output: <code>document_dec.txt</code>
 - Output: <code>contract_enc.pdf</code>  
 - Then decrypt → <code>contract_dec.pdf</code>
 
-<h2>📁 Folder Encryption (EncFS)</h2>
+<h2>Folder Encryption (EncFS)</h2>
 
 <ul>
   <li>Encrypts folders without changing contents</li>
@@ -91,7 +91,7 @@ Then decode → output: <code>document_dec.txt</code>
 <pre><code>sudo apt update
 sudo apt install encfs</code></pre>
 
-<h2>📦 Installation</h2>
+<h2>Installation</h2>
 
 1. Simply install using the python pip package but first make sure you use Virtal Environment and source the activate:
 
@@ -121,7 +121,7 @@ cd Ceasar-cipher-toolkit
 python main.py
 </code></pre>
 
-<h2>📖 License</h2>
+<h2>License</h2>
 
 Released under the <a href="LICENSE">MIT License</a>.
 
