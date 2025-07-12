@@ -52,7 +52,7 @@ class Spinner:
         time.sleep(self.delay)
         sys.stdout.write("\r" + " "*(len(self.msg)+2) + "\r")
 
-# ─── Caesar cipher ──────────────────────────────────────────────────────────────
+
 def caesar_encode(text, shift):
     out = []
     for ch in text:
