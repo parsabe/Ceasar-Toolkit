@@ -12,11 +12,7 @@ from colorama import init, Fore
 import tempfile
 
 
-
-# ─── Initialize colored output ─────────────────────────────────────────────────
 init(autoreset=True)
-
-# ─── ASCII banner ───────────────────────────────────────────────────────────────
 BANNER = r"""
   _____                          
  / ____|                         
