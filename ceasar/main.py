@@ -27,7 +27,7 @@ width = shutil.get_terminal_size((80,20)).columns
 for line in BANNER.splitlines():
     print(Fore.CYAN + line.center(width))
 
-# ─── Spinner for long ops ──────────────────────────────────────────────────────
+
 class Spinner:
     busy = False
     delay = 0.1
