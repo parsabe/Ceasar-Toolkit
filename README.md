@@ -6,7 +6,7 @@
 
 <p><strong>No command-line arguments required</strong> — just run and go. The interactive menu handles everything.</p>
 
-<hr/>
+
 
 <h2> Features</h2>
 
