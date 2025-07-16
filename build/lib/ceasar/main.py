@@ -11,6 +11,7 @@ from PyPDF2 import PdfReader, PdfWriter
 from colorama import init, Fore
 import tempfile
 
+
 # ─── Initialize colored output ─────────────────────────────────────────────────
 init(autoreset=True)
 
