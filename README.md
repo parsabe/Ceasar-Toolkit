@@ -2,7 +2,6 @@
 <img src="logo.png" width="1080" height="540">
 <h1>Ceasar Toolkit</h1>
 
-
 <p><strong>Ceasar Cipher Toolkit</strong> is a free, open-source CLI framework for encoding and decoding files using the classic Ceasar cipher. It also includes powerful tools to encrypt PDFs and folders — without compressing or modifying original file contents.</p>
 
 <p><strong>No command-line arguments required</strong> — just run and go. The interactive menu handles everything.</p>
