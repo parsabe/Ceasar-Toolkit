@@ -22,7 +22,6 @@
 <h2> Example Use</h2>
 
 <pre><code>python main.py</code></pre>
-
 <p>Then choose one of the options:</p>
 <pre><code>
 1. Ceasar Encode Text
